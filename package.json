@@ -1,7 +1,7 @@
 {
-    "name": "@anjaiedgar/Baileys",
+    "name": "@victimxalex/bailesy",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By Edgar",
+    "description": "WhatsApp API Modification By alex",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,9 +12,9 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/anjaiedgar/Baileys",
+    "homepage": "https://github.com/victimxalex/Baileys",
     "repository": {
-        "url": "https://github.com/anjaiedgar/Baileys"
+        "url": "https://github.com/victimxalex/Baileys"
     },
     "license": "MIT",
     "author": "EdgarMarket",
